@@ -1,3 +1,3 @@
-1. #DEMO
+#DEMO
 
-Sample description for DEMO
+Sample description for DEMO!
